@@ -68,7 +68,7 @@ header-includes:
 
 ![Действия с каталогами](image/08.png){ #fig:008 width=70% height=70% }
 
-![Команда ls -R и ls -t](image/09.png){ #fig:009 width=70% height=70% }
+#![Команда ls -R и ls -t](image/09.png){ #fig:009 width=70% height=70% }
 
 ## Справка по командам
 
